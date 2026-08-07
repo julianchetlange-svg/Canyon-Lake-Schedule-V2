@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-08-04T13:23:44.774Z",
+  "exportedAt": "2026-08-07T19:43:47.316Z",
   "project": "McCoys Canyon Lake — Detailed Construction Schedule",
   "rows": [
     {
@@ -8,7 +8,7 @@
       "name": "McCoys Canyon Lake",
       "phase": "project",
       "isParent": true,
-      "progress": 2,
+      "progress": 3,
       "start": null,
       "end": null,
       "resource": ""
@@ -19,21 +19,10 @@
       "name": "Procurement",
       "phase": "Procurement",
       "isParent": true,
-      "progress": 1,
+      "progress": 2,
       "start": null,
       "end": null,
       "resource": ""
-    },
-    {
-      "id": 13,
-      "parent": 12,
-      "name": "True Look Camera",
-      "phase": "Procurement",
-      "isParent": false,
-      "progress": 100,
-      "start": "2026-08-04",
-      "end": "2026-08-05",
-      "resource": "McCoy's Const. Team"
     },
     {
       "id": 14,
@@ -58,234 +47,14 @@
       "resource": "McCoy's Const. Team"
     },
     {
-      "id": 16,
+      "id": 13,
       "parent": 12,
-      "name": "Catwalk",
+      "name": "True Look Camera",
       "phase": "Procurement",
       "isParent": false,
-      "progress": 0,
-      "start": "2027-01-07",
-      "end": "2027-02-03",
-      "resource": "CT Darnel"
-    },
-    {
-      "id": 17,
-      "parent": 12,
-      "name": "Roof Jack",
-      "phase": "Procurement",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-01-31",
-      "end": "2027-02-11",
-      "resource": "CT Darnel"
-    },
-    {
-      "id": 18,
-      "parent": 12,
-      "name": "Dynaco Door",
-      "phase": "Procurement",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-02-03",
-      "end": "2027-04-05",
-      "resource": "CT Darnel"
-    },
-    {
-      "id": 19,
-      "parent": 12,
-      "name": "Automatic Entrances - Sliding Doors",
-      "phase": "Procurement",
-      "isParent": false,
-      "progress": 0,
-      "start": "2026-12-31",
-      "end": "2027-03-23",
-      "resource": "CT Darnel"
-    },
-    {
-      "id": 20,
-      "parent": 12,
-      "name": "Signage",
-      "phase": "Procurement",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-02-21",
-      "end": "2027-04-23",
-      "resource": "McCoy's Const. Team"
-    },
-    {
-      "id": 21,
-      "parent": 12,
-      "name": "Knox Box",
-      "phase": "Procurement",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-04-01",
-      "end": "2027-04-07",
-      "resource": "1st Fire"
-    },
-    {
-      "id": 22,
-      "parent": 12,
-      "name": "Bolt Down Safe",
-      "phase": "Procurement",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-04-01",
-      "end": "2027-04-07",
-      "resource": "Teinert Construction"
-    },
-    {
-      "id": 23,
-      "parent": 12,
-      "name": "Air Compressor",
-      "phase": "Procurement",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-03-25",
-      "end": "2027-04-07",
-      "resource": "Teinert Construction"
-    },
-    {
-      "id": 24,
-      "parent": 12,
-      "name": "Yard Bell",
-      "phase": "Procurement",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-03-25",
-      "end": "2027-04-07",
-      "resource": "Teinert Construction"
-    },
-    {
-      "id": 25,
-      "parent": 12,
-      "name": "HVAC Equipment",
-      "phase": "Procurement",
-      "isParent": false,
-      "progress": 0,
-      "start": "2026-12-13",
-      "end": "2027-03-04",
-      "resource": "Teinert Construction"
-    },
-    {
-      "id": 26,
-      "parent": 12,
-      "name": "LED Lights",
-      "phase": "Procurement",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-01-10",
-      "end": "2027-02-19",
-      "resource": "Teinert Construction"
-    },
-    {
-      "id": 27,
-      "parent": 12,
-      "name": "Energy Management System",
-      "phase": "Procurement",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-02-21",
-      "end": "2027-04-01",
-      "resource": "Teinert Construction / McCoy's"
-    },
-    {
-      "id": 28,
-      "parent": 12,
-      "name": "Data Rack & Patch Panels",
-      "phase": "Procurement",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-02-21",
-      "end": "2027-04-01",
-      "resource": "Teinert Construction"
-    },
-    {
-      "id": 29,
-      "parent": 12,
-      "name": "Amplifiers & Speakers",
-      "phase": "Procurement",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-02-21",
-      "end": "2027-04-01",
-      "resource": "Teinert Construction"
-    },
-    {
-      "id": 30,
-      "parent": 12,
-      "name": "AP Devices",
-      "phase": "Procurement",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-02-21",
-      "end": "2027-04-01",
-      "resource": "McCoy's Const. Team"
-    },
-    {
-      "id": 31,
-      "parent": 12,
-      "name": "Rubber Parking Bumpers",
-      "phase": "Procurement",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-02-21",
-      "end": "2027-03-11",
-      "resource": "Teinert Construction"
-    },
-    {
-      "id": 32,
-      "parent": 12,
-      "name": "Roof Ladder",
-      "phase": "Procurement",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-02-21",
-      "end": "2027-04-01",
-      "resource": "CT Darnel"
-    },
-    {
-      "id": 33,
-      "parent": 12,
-      "name": "Plastic Doors - WH",
-      "phase": "Procurement",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-02-21",
-      "end": "2027-03-04",
-      "resource": "CT Darnel"
-    },
-    {
-      "id": 34,
-      "parent": 12,
-      "name": "Fleet Equipment",
-      "phase": "Procurement",
-      "isParent": false,
-      "progress": 0,
-      "start": "2026-11-22",
-      "end": "2027-05-07",
-      "resource": "McCoy's Const. Team"
-    },
-    {
-      "id": 35,
-      "parent": 12,
-      "name": "Chop Saw",
-      "phase": "Procurement",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-02-21",
-      "end": "2027-03-04",
-      "resource": "Teinert Construction"
-    },
-    {
-      "id": 36,
-      "parent": 12,
-      "name": "Generator",
-      "phase": "Procurement",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-02-21",
-      "end": "2027-03-04",
+      "progress": 100,
+      "start": "2026-08-07",
+      "end": "2026-08-20",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -295,8 +64,206 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-21",
-      "end": "2027-05-14",
+      "start": "2026-10-31",
+      "end": "2027-01-21",
+      "resource": "McCoy's Const. Team"
+    },
+    {
+      "id": 34,
+      "parent": 12,
+      "name": "Fleet Equipment",
+      "phase": "Procurement",
+      "isParent": false,
+      "progress": 0,
+      "start": "2026-11-10",
+      "end": "2027-04-25",
+      "resource": "McCoy's Const. Team"
+    },
+    {
+      "id": 41,
+      "parent": 12,
+      "name": "Furnishings",
+      "phase": "Procurement",
+      "isParent": false,
+      "progress": 0,
+      "start": "2026-11-22",
+      "end": "2026-12-03",
+      "resource": "McCoy's Const. Team"
+    },
+    {
+      "id": 25,
+      "parent": 12,
+      "name": "HVAC Equipment",
+      "phase": "Procurement",
+      "isParent": false,
+      "progress": 0,
+      "start": "2026-12-06",
+      "end": "2027-02-25",
+      "resource": "Teinert Construction"
+    },
+    {
+      "id": 19,
+      "parent": 12,
+      "name": "Automatic Entrances - Sliding Doors",
+      "phase": "Procurement",
+      "isParent": false,
+      "progress": 0,
+      "start": "2026-12-24",
+      "end": "2027-03-16",
+      "resource": "CT Darnel"
+    },
+    {
+      "id": 16,
+      "parent": 12,
+      "name": "Catwalk",
+      "phase": "Procurement",
+      "isParent": false,
+      "progress": 0,
+      "start": "2026-12-31",
+      "end": "2027-01-27",
+      "resource": "CT Darnel"
+    },
+    {
+      "id": 26,
+      "parent": 12,
+      "name": "LED Lights",
+      "phase": "Procurement",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-01-03",
+      "end": "2027-02-12",
+      "resource": "Teinert Construction"
+    },
+    {
+      "id": 17,
+      "parent": 12,
+      "name": "Roof Jack",
+      "phase": "Procurement",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-01-24",
+      "end": "2027-02-04",
+      "resource": "CT Darnel"
+    },
+    {
+      "id": 18,
+      "parent": 12,
+      "name": "Dynaco Door",
+      "phase": "Procurement",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-01-27",
+      "end": "2027-03-29",
+      "resource": "CT Darnel"
+    },
+    {
+      "id": 20,
+      "parent": 12,
+      "name": "Signage",
+      "phase": "Procurement",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-02-14",
+      "end": "2027-04-16",
+      "resource": "McCoy's Const. Team"
+    },
+    {
+      "id": 27,
+      "parent": 12,
+      "name": "Energy Management System",
+      "phase": "Procurement",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-02-14",
+      "end": "2027-03-25",
+      "resource": "Teinert Construction / McCoy's"
+    },
+    {
+      "id": 28,
+      "parent": 12,
+      "name": "Data Rack & Patch Panels",
+      "phase": "Procurement",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-02-14",
+      "end": "2027-03-25",
+      "resource": "Teinert Construction"
+    },
+    {
+      "id": 29,
+      "parent": 12,
+      "name": "Amplifiers & Speakers",
+      "phase": "Procurement",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-02-14",
+      "end": "2027-03-25",
+      "resource": "Teinert Construction"
+    },
+    {
+      "id": 30,
+      "parent": 12,
+      "name": "AP Devices",
+      "phase": "Procurement",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-02-14",
+      "end": "2027-03-25",
+      "resource": "McCoy's Const. Team"
+    },
+    {
+      "id": 31,
+      "parent": 12,
+      "name": "Rubber Parking Bumpers",
+      "phase": "Procurement",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-02-14",
+      "end": "2027-03-04",
+      "resource": "Teinert Construction"
+    },
+    {
+      "id": 32,
+      "parent": 12,
+      "name": "Roof Ladder",
+      "phase": "Procurement",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-02-14",
+      "end": "2027-03-25",
+      "resource": "CT Darnel"
+    },
+    {
+      "id": 33,
+      "parent": 12,
+      "name": "Plastic Doors - WH",
+      "phase": "Procurement",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-02-14",
+      "end": "2027-02-25",
+      "resource": "CT Darnel"
+    },
+    {
+      "id": 35,
+      "parent": 12,
+      "name": "Chop Saw",
+      "phase": "Procurement",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-02-14",
+      "end": "2027-02-25",
+      "resource": "Teinert Construction"
+    },
+    {
+      "id": 36,
+      "parent": 12,
+      "name": "Generator",
+      "phase": "Procurement",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-02-14",
+      "end": "2027-02-25",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -306,19 +273,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-21",
-      "end": "2027-03-04",
-      "resource": "McCoy's Const. Team"
-    },
-    {
-      "id": 39,
-      "parent": 12,
-      "name": "Janitorial - Paper Products",
-      "phase": "Procurement",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-03-25",
-      "end": "2027-04-07",
+      "start": "2027-02-14",
+      "end": "2027-02-25",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -328,20 +284,64 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2027-03-07",
-      "end": "2027-03-18",
+      "start": "2027-02-28",
+      "end": "2027-03-11",
       "resource": "Teinert Construction"
     },
     {
-      "id": 41,
+      "id": 23,
       "parent": 12,
-      "name": "Furnishings",
+      "name": "Air Compressor",
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2026-11-29",
-      "end": "2026-12-10",
+      "start": "2027-03-18",
+      "end": "2027-03-31",
+      "resource": "Teinert Construction"
+    },
+    {
+      "id": 24,
+      "parent": 12,
+      "name": "Yard Bell",
+      "phase": "Procurement",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-03-18",
+      "end": "2027-03-31",
+      "resource": "Teinert Construction"
+    },
+    {
+      "id": 39,
+      "parent": 12,
+      "name": "Janitorial - Paper Products",
+      "phase": "Procurement",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-03-18",
+      "end": "2027-03-31",
       "resource": "McCoy's Const. Team"
+    },
+    {
+      "id": 21,
+      "parent": 12,
+      "name": "Knox Box",
+      "phase": "Procurement",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-03-25",
+      "end": "2027-03-31",
+      "resource": "1st Fire"
+    },
+    {
+      "id": 22,
+      "parent": 12,
+      "name": "Bolt Down Safe",
+      "phase": "Procurement",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-03-25",
+      "end": "2027-03-31",
+      "resource": "Teinert Construction"
     },
     {
       "id": 42,
@@ -349,7 +349,7 @@
       "name": "Site",
       "phase": "Site",
       "isParent": true,
-      "progress": 6,
+      "progress": 9,
       "start": null,
       "end": null,
       "resource": ""
@@ -371,7 +371,7 @@
       "name": "Temp Fence & Erosion Controls",
       "phase": "Site",
       "isParent": false,
-      "progress": 100,
+      "progress": 75,
       "start": "2026-07-22",
       "end": "2026-07-28",
       "resource": "Teinert Construction"
@@ -382,7 +382,7 @@
       "name": "Clear and Grub Site",
       "phase": "Site",
       "isParent": false,
-      "progress": 75,
+      "progress": 100,
       "start": "2026-07-27",
       "end": "2026-08-07",
       "resource": "Teinert Construction"
@@ -393,7 +393,7 @@
       "name": "Site Grading/Base",
       "phase": "Site",
       "isParent": false,
-      "progress": 0,
+      "progress": 10,
       "start": "2026-08-10",
       "end": "2026-11-13",
       "resource": "Teinert Construction"
@@ -505,7 +505,7 @@
       "isParent": false,
       "progress": 0,
       "start": "2027-03-27",
-      "end": "2027-04-23",
+      "end": "2027-04-13",
       "resource": "Teinert Construction"
     },
     {
@@ -527,18 +527,7 @@
       "isParent": false,
       "progress": 0,
       "start": "2026-08-24",
-      "end": "2026-11-03",
-      "resource": "Teinert Construction"
-    },
-    {
-      "id": 59,
-      "parent": 57,
-      "name": "Underground Plumbing & Elec.",
-      "phase": "Sales Floor Building",
-      "isParent": false,
-      "progress": 0,
-      "start": "2026-10-22",
-      "end": "2026-11-04",
+      "end": "2026-09-03",
       "resource": "Teinert Construction"
     },
     {
@@ -548,8 +537,19 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2026-10-12",
-      "end": "2026-10-29",
+      "start": "2026-09-04",
+      "end": "2026-09-17",
+      "resource": "Teinert Construction"
+    },
+    {
+      "id": 59,
+      "parent": 57,
+      "name": "Underground Plumbing & Elec.",
+      "phase": "Sales Floor Building",
+      "isParent": false,
+      "progress": 0,
+      "start": "2026-09-18",
+      "end": "2026-09-26",
       "resource": "Teinert Construction"
     },
     {
@@ -559,8 +559,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2026-11-03",
-      "end": "2026-11-07",
+      "start": "2026-09-27",
+      "end": "2026-10-04",
       "resource": "Teinert Construction"
     },
     {
@@ -570,8 +570,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2026-11-23",
-      "end": "2027-01-15",
+      "start": "2026-10-12",
+      "end": "2026-11-22",
       "resource": "CT Darnel"
     },
     {
@@ -581,19 +581,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-01-07",
-      "end": "2027-01-21",
-      "resource": "McCoy's Const. Team"
-    },
-    {
-      "id": 64,
-      "parent": 57,
-      "name": "Door Frames",
-      "phase": "Sales Floor Building",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-01-07",
-      "end": "2027-01-21",
+      "start": "2026-11-09",
+      "end": "2026-11-23",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -603,8 +592,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-01-21",
-      "end": "2027-02-24",
+      "start": "2026-11-23",
+      "end": "2026-12-27",
       "resource": "Teinert Construction"
     },
     {
@@ -614,20 +603,20 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-01-21",
-      "end": "2027-02-10",
+      "start": "2026-11-23",
+      "end": "2026-12-13",
       "resource": "1st Fire Protection"
     },
     {
-      "id": 67,
+      "id": 111,
       "parent": 57,
-      "name": "Interior Liner Panels",
+      "name": "Store Planning Construction Items",
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-24",
-      "end": "2027-03-10",
-      "resource": "CT Darnel"
+      "start": "2026-11-24",
+      "end": "2026-12-17",
+      "resource": "McCoy's Const. Team"
     },
     {
       "id": 68,
@@ -636,19 +625,19 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-21",
-      "end": "2027-03-18",
+      "start": "2026-12-24",
+      "end": "2027-01-18",
       "resource": "CT Darnel"
     },
     {
-      "id": 69,
+      "id": 67,
       "parent": 57,
-      "name": "Façade Stucco & Stone",
+      "name": "Interior Liner Panels",
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-03-20",
-      "end": "2027-04-07",
+      "start": "2026-12-27",
+      "end": "2027-01-10",
       "resource": "CT Darnel"
     },
     {
@@ -658,31 +647,9 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-28",
-      "end": "2027-03-11",
+      "start": "2026-12-31",
+      "end": "2027-01-11",
       "resource": "McCoy's Const. Team"
-    },
-    {
-      "id": 71,
-      "parent": 57,
-      "name": "Painting",
-      "phase": "Sales Floor Building",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-03-14",
-      "end": "2027-04-01",
-      "resource": "Teinert Construction"
-    },
-    {
-      "id": 72,
-      "parent": 57,
-      "name": "Prep/Seal/Polish Concrete",
-      "phase": "Sales Floor Building",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-04-05",
-      "end": "2027-04-12",
-      "resource": "Teinert Construction"
     },
     {
       "id": 73,
@@ -691,8 +658,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-03-04",
-      "end": "2027-03-10",
+      "start": "2027-01-04",
+      "end": "2027-01-10",
       "resource": "Teinert Construction"
     },
     {
@@ -702,7 +669,150 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-03-11",
+      "start": "2027-01-11",
+      "end": "2027-01-17",
+      "resource": "Teinert Construction"
+    },
+    {
+      "id": 76,
+      "parent": 57,
+      "name": "Pull Electrical Wiring",
+      "phase": "Sales Floor Building",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-01-14",
+      "end": "2027-02-01",
+      "resource": "Teinert Construction"
+    },
+    {
+      "id": 77,
+      "parent": 57,
+      "name": "Data Cabling",
+      "phase": "Sales Floor Building",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-01-17",
+      "end": "2027-02-06",
+      "resource": "Teinert Construction"
+    },
+    {
+      "id": 69,
+      "parent": 57,
+      "name": "Façade Stucco & Stone",
+      "phase": "Sales Floor Building",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-01-20",
+      "end": "2027-02-07",
+      "resource": "CT Darnel"
+    },
+    {
+      "id": 78,
+      "parent": 57,
+      "name": "Wire Fire/Burg Alarm",
+      "phase": "Sales Floor Building",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-01-25",
+      "end": "2027-02-07",
+      "resource": "1st Fire / Teinert Construction"
+    },
+    {
+      "id": 79,
+      "parent": 57,
+      "name": "Set Light Fixtures",
+      "phase": "Sales Floor Building",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-02-04",
+      "end": "2027-02-15",
+      "resource": "Teinert Construction"
+    },
+    {
+      "id": 87,
+      "parent": 57,
+      "name": "MEP Trim Out",
+      "phase": "Sales Floor Building",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-02-04",
+      "end": "2027-02-20",
+      "resource": "Teinert Construction"
+    },
+    {
+      "id": 84,
+      "parent": 57,
+      "name": "Install Mez Rack",
+      "phase": "Sales Floor Building",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-02-05",
+      "end": "2027-02-15",
+      "resource": "CT Darnel"
+    },
+    {
+      "id": 85,
+      "parent": 57,
+      "name": "Install Pallet Racking",
+      "phase": "Sales Floor Building",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-02-05",
+      "end": "2027-02-15",
+      "resource": "CT Darnel"
+    },
+    {
+      "id": 71,
+      "parent": 57,
+      "name": "Painting",
+      "phase": "Sales Floor Building",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-02-16",
+      "end": "2027-03-06",
+      "resource": "Teinert Construction"
+    },
+    {
+      "id": 83,
+      "parent": 57,
+      "name": "Set Millwork",
+      "phase": "Sales Floor Building",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-02-17",
+      "end": "2027-02-22",
+      "resource": "Teinert Construction"
+    },
+    {
+      "id": 86,
+      "parent": 57,
+      "name": "Install Pallet Rack Plank",
+      "phase": "Sales Floor Building",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-02-18",
+      "end": "2027-02-23",
+      "resource": "McCoy's Const. Team"
+    },
+    {
+      "id": 80,
+      "parent": 57,
+      "name": "Restroom Tile",
+      "phase": "Sales Floor Building",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-03-07",
+      "end": "2027-03-18",
+      "resource": "Teinert Construction"
+    },
+    {
+      "id": 72,
+      "parent": 57,
+      "name": "Prep/Seal/Polish Concrete",
+      "phase": "Sales Floor Building",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-03-10",
       "end": "2027-03-17",
       "resource": "Teinert Construction"
     },
@@ -713,63 +823,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-04-05",
-      "end": "2027-04-11",
-      "resource": "Teinert Construction"
-    },
-    {
-      "id": 76,
-      "parent": 57,
-      "name": "Pull Electrical Wiring",
-      "phase": "Sales Floor Building",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-03-14",
-      "end": "2027-04-01",
-      "resource": "Teinert Construction"
-    },
-    {
-      "id": 77,
-      "parent": 57,
-      "name": "Data Cabling",
-      "phase": "Sales Floor Building",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-03-17",
-      "end": "2027-04-06",
-      "resource": "Teinert Construction"
-    },
-    {
-      "id": 78,
-      "parent": 57,
-      "name": "Wire Fire/Burg Alarm",
-      "phase": "Sales Floor Building",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-03-25",
-      "end": "2027-04-07",
-      "resource": "1st Fire / Teinert Construction"
-    },
-    {
-      "id": 79,
-      "parent": 57,
-      "name": "Set Light Fixtures",
-      "phase": "Sales Floor Building",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-04-04",
-      "end": "2027-04-15",
-      "resource": "Teinert Construction"
-    },
-    {
-      "id": 80,
-      "parent": 57,
-      "name": "Restroom Tile",
-      "phase": "Sales Floor Building",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-04-04",
-      "end": "2027-04-15",
+      "start": "2027-03-10",
+      "end": "2027-03-16",
       "resource": "Teinert Construction"
     },
     {
@@ -779,8 +834,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-04-18",
-      "end": "2027-04-20",
+      "start": "2027-03-21",
+      "end": "2027-03-23",
       "resource": "Teinert Construction"
     },
     {
@@ -790,63 +845,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-04-18",
-      "end": "2027-04-23",
-      "resource": "Teinert Construction"
-    },
-    {
-      "id": 83,
-      "parent": 57,
-      "name": "Set Millwork",
-      "phase": "Sales Floor Building",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-04-17",
-      "end": "2027-04-22",
-      "resource": "Teinert Construction"
-    },
-    {
-      "id": 84,
-      "parent": 57,
-      "name": "Install Mez Rack",
-      "phase": "Sales Floor Building",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-04-05",
-      "end": "2027-04-15",
-      "resource": "CT Darnel"
-    },
-    {
-      "id": 85,
-      "parent": 57,
-      "name": "Install Pallet Racking",
-      "phase": "Sales Floor Building",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-04-05",
-      "end": "2027-04-15",
-      "resource": "CT Darnel"
-    },
-    {
-      "id": 86,
-      "parent": 57,
-      "name": "Install Pallet Rack Plank",
-      "phase": "Sales Floor Building",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-04-18",
-      "end": "2027-04-23",
-      "resource": "McCoy's Const. Team"
-    },
-    {
-      "id": 87,
-      "parent": 57,
-      "name": "MEP Trim Out",
-      "phase": "Sales Floor Building",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-04-04",
-      "end": "2027-04-20",
+      "start": "2027-03-21",
+      "end": "2027-03-26",
       "resource": "Teinert Construction"
     },
     {
@@ -856,8 +856,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-04-18",
-      "end": "2027-04-23",
+      "start": "2027-03-21",
+      "end": "2027-03-26",
       "resource": "Teinert Construction"
     },
     {
@@ -872,14 +872,25 @@
       "resource": ""
     },
     {
+      "id": 110,
+      "parent": 89,
+      "name": "Building Pad",
+      "phase": "Drive Thru",
+      "isParent": false,
+      "progress": 0,
+      "start": "2026-11-05",
+      "end": "2026-11-09",
+      "resource": "Teinert Construction"
+    },
+    {
       "id": 91,
       "parent": 89,
       "name": "Concrete Footers",
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2026-10-01",
-      "end": "2026-10-06",
+      "start": "2026-11-10",
+      "end": "2026-11-15",
       "resource": "Teinert Construction"
     },
     {
@@ -889,8 +900,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2026-10-01",
-      "end": "2026-10-05",
+      "start": "2026-11-10",
+      "end": "2026-11-14",
       "resource": "1st Fire / Teinert Construction"
     },
     {
@@ -900,19 +911,19 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2026-10-07",
-      "end": "2026-10-13",
+      "start": "2026-11-16",
+      "end": "2026-11-22",
       "resource": "Teinert Construction"
     },
     {
       "id": 94,
       "parent": 89,
-      "name": "Erect Canopies",
+      "name": "Erect Canopy",
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2026-10-22",
-      "end": "2026-11-11",
+      "start": "2026-11-23",
+      "end": "2026-12-13",
       "resource": "CT Darnel"
     },
     {
@@ -922,20 +933,9 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2026-11-16",
-      "end": "2026-11-20",
+      "start": "2026-12-18",
+      "end": "2026-12-22",
       "resource": "McCoy's Const. Team"
-    },
-    {
-      "id": 96,
-      "parent": 89,
-      "name": "Fire Suppression Rough In",
-      "phase": "Drive Thru",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-01-18",
-      "end": "2027-01-29",
-      "resource": "1st Fire Protection"
     },
     {
       "id": 97,
@@ -944,8 +944,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2026-11-16",
-      "end": "2026-12-04",
+      "start": "2026-12-23",
+      "end": "2027-01-10",
       "resource": "Teinert Construction"
     },
     {
@@ -955,8 +955,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2026-11-23",
-      "end": "2026-11-24",
+      "start": "2027-01-11",
+      "end": "2027-01-12",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -966,20 +966,9 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2026-12-14",
-      "end": "2026-12-16",
+      "start": "2027-01-15",
+      "end": "2027-01-17",
       "resource": "Teinert Construction"
-    },
-    {
-      "id": 100,
-      "parent": 89,
-      "name": "Fire Suppression Trim Out",
-      "phase": "Drive Thru",
-      "isParent": false,
-      "progress": 0,
-      "start": "2027-02-01",
-      "end": "2027-02-03",
-      "resource": "1st Fire Protection"
     },
     {
       "id": 101,
@@ -988,9 +977,31 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2026-12-21",
-      "end": "2026-12-25",
+      "start": "2027-01-22",
+      "end": "2027-01-26",
       "resource": "Teinert Construction"
+    },
+    {
+      "id": 96,
+      "parent": 89,
+      "name": "Fire Suppression Rough In",
+      "phase": "Drive Thru",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-02-19",
+      "end": "2027-03-02",
+      "resource": "1st Fire Protection"
+    },
+    {
+      "id": 100,
+      "parent": 89,
+      "name": "Fire Suppression Trim Out",
+      "phase": "Drive Thru",
+      "isParent": false,
+      "progress": 0,
+      "start": "2027-03-05",
+      "end": "2027-03-07",
+      "resource": "1st Fire Protection"
     },
     {
       "id": 102,
@@ -999,8 +1010,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2026-11-30",
-      "end": "2026-12-04",
+      "start": "2027-03-08",
+      "end": "2027-03-12",
       "resource": "Teinert Construction"
     },
     {
@@ -1010,8 +1021,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2027-03-28",
-      "end": "2027-04-07",
+      "start": "2027-03-15",
+      "end": "2027-03-25",
       "resource": "CT Darnel"
     },
     {
@@ -1021,8 +1032,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2027-03-28",
-      "end": "2027-04-07",
+      "start": "2027-03-15",
+      "end": "2027-03-25",
       "resource": "CT Darnel"
     },
     {
@@ -1032,8 +1043,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2027-04-05",
-      "end": "2027-04-09",
+      "start": "2027-03-26",
+      "end": "2027-03-30",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -1043,8 +1054,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2027-04-05",
-      "end": "2027-04-09",
+      "start": "2027-03-26",
+      "end": "2027-03-30",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -1054,8 +1065,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2027-04-05",
-      "end": "2027-04-09",
+      "start": "2027-03-26",
+      "end": "2027-03-30",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -1076,8 +1087,8 @@
       "phase": "Inspections & CO",
       "isParent": false,
       "progress": 0,
-      "start": "2027-04-21",
-      "end": "2027-04-21",
+      "start": "2027-04-05",
+      "end": "2027-04-05",
       "resource": "Teinert Construction"
     },
     {
@@ -1087,8 +1098,8 @@
       "phase": "Inspections & CO",
       "isParent": false,
       "progress": 0,
-      "start": "2027-04-21",
-      "end": "2027-04-21",
+      "start": "2027-04-05",
+      "end": "2027-04-05",
       "resource": "1st Fire Protection"
     },
     {
@@ -1098,8 +1109,8 @@
       "phase": "Inspections & CO",
       "isParent": false,
       "progress": 0,
-      "start": "2027-04-22",
-      "end": "2027-04-22",
+      "start": "2027-04-06",
+      "end": "2027-04-06",
       "resource": "1st Fire Protection"
     },
     {
@@ -1109,8 +1120,8 @@
       "phase": "Inspections & CO",
       "isParent": false,
       "progress": 0,
-      "start": "2027-04-23",
-      "end": "2027-04-23",
+      "start": "2027-04-07",
+      "end": "2027-04-07",
       "resource": "Teinert Construction/1st Fire"
     },
     {
@@ -1120,8 +1131,8 @@
       "phase": "Inspections & CO",
       "isParent": false,
       "progress": 0,
-      "start": "2027-04-26",
-      "end": "2027-04-26",
+      "start": "2027-04-10",
+      "end": "2027-04-10",
       "resource": "Teinert Construction"
     },
     {
@@ -1131,8 +1142,8 @@
       "phase": "Inspections & CO",
       "isParent": false,
       "progress": 0,
-      "start": "2027-04-18",
-      "end": "2027-04-30",
+      "start": "2027-04-12",
+      "end": "2027-04-24",
       "resource": "Eckermann / Studio 8 / McCoy's"
     },
     {
@@ -1142,8 +1153,8 @@
       "phase": "Inspections & CO",
       "isParent": false,
       "progress": 0,
-      "start": "2027-05-03",
-      "end": "2027-05-03",
+      "start": "2027-04-26",
+      "end": "2027-04-26",
       "resource": "McCoy's Const. Team"
     }
   ]
