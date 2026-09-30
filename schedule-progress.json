@@ -53,8 +53,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 100,
-      "start": "2026-08-04",
-      "end": "2026-08-05",
+      "start": "2026-08-25",
+      "end": "2026-08-26",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -64,8 +64,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2026-10-31",
-      "end": "2027-01-21",
+      "start": "2026-11-21",
+      "end": "2027-02-11",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -75,8 +75,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2026-11-10",
-      "end": "2027-04-25",
+      "start": "2026-12-01",
+      "end": "2027-05-16",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -86,8 +86,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2026-11-22",
-      "end": "2026-12-03",
+      "start": "2026-12-13",
+      "end": "2026-12-24",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -97,8 +97,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2026-12-06",
-      "end": "2027-02-25",
+      "start": "2026-12-27",
+      "end": "2027-03-18",
       "resource": "Teinert Construction"
     },
     {
@@ -108,8 +108,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2026-12-24",
-      "end": "2027-03-16",
+      "start": "2027-01-14",
+      "end": "2027-04-06",
       "resource": "CT Darnel"
     },
     {
@@ -119,8 +119,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2026-12-31",
-      "end": "2027-01-27",
+      "start": "2027-01-21",
+      "end": "2027-02-17",
       "resource": "CT Darnel"
     },
     {
@@ -130,8 +130,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2027-01-03",
-      "end": "2027-02-12",
+      "start": "2027-01-24",
+      "end": "2027-03-05",
       "resource": "Teinert Construction"
     },
     {
@@ -141,8 +141,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2027-01-24",
-      "end": "2027-02-04",
+      "start": "2027-02-14",
+      "end": "2027-02-25",
       "resource": "CT Darnel"
     },
     {
@@ -152,8 +152,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2027-01-27",
-      "end": "2027-03-29",
+      "start": "2027-02-17",
+      "end": "2027-04-19",
       "resource": "CT Darnel"
     },
     {
@@ -163,8 +163,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-14",
-      "end": "2027-02-25",
+      "start": "2027-03-07",
+      "end": "2027-03-18",
       "resource": "CT Darnel"
     },
     {
@@ -174,8 +174,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-14",
-      "end": "2027-02-25",
+      "start": "2027-03-07",
+      "end": "2027-03-18",
       "resource": "Teinert Construction"
     },
     {
@@ -185,8 +185,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-14",
-      "end": "2027-02-25",
+      "start": "2027-03-07",
+      "end": "2027-03-18",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -196,8 +196,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-14",
-      "end": "2027-02-25",
+      "start": "2027-03-07",
+      "end": "2027-03-18",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -207,8 +207,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-14",
-      "end": "2027-03-04",
+      "start": "2027-03-07",
+      "end": "2027-03-25",
       "resource": "Teinert Construction"
     },
     {
@@ -218,8 +218,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-14",
-      "end": "2027-03-25",
+      "start": "2027-03-07",
+      "end": "2027-04-15",
       "resource": "Teinert Construction / McCoy's"
     },
     {
@@ -229,8 +229,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-14",
-      "end": "2027-03-25",
+      "start": "2027-03-07",
+      "end": "2027-04-15",
       "resource": "Teinert Construction"
     },
     {
@@ -240,8 +240,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-14",
-      "end": "2027-03-25",
+      "start": "2027-03-07",
+      "end": "2027-04-15",
       "resource": "Teinert Construction"
     },
     {
@@ -251,8 +251,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-14",
-      "end": "2027-03-25",
+      "start": "2027-03-07",
+      "end": "2027-04-15",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -262,8 +262,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-14",
-      "end": "2027-03-25",
+      "start": "2027-03-07",
+      "end": "2027-04-15",
       "resource": "CT Darnel"
     },
     {
@@ -273,8 +273,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-14",
-      "end": "2027-04-16",
+      "start": "2027-03-07",
+      "end": "2027-05-07",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -284,8 +284,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-28",
-      "end": "2027-03-11",
+      "start": "2027-03-21",
+      "end": "2027-04-01",
       "resource": "Teinert Construction"
     },
     {
@@ -295,8 +295,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2027-03-18",
-      "end": "2027-03-31",
+      "start": "2027-04-08",
+      "end": "2027-04-21",
       "resource": "Teinert Construction"
     },
     {
@@ -306,8 +306,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2027-03-18",
-      "end": "2027-03-31",
+      "start": "2027-04-08",
+      "end": "2027-04-21",
       "resource": "Teinert Construction"
     },
     {
@@ -317,8 +317,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2027-03-18",
-      "end": "2027-03-31",
+      "start": "2027-04-08",
+      "end": "2027-04-21",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -328,8 +328,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2027-03-25",
-      "end": "2027-03-31",
+      "start": "2027-04-15",
+      "end": "2027-04-21",
       "resource": "1st Fire"
     },
     {
@@ -339,8 +339,8 @@
       "phase": "Procurement",
       "isParent": false,
       "progress": 0,
-      "start": "2027-03-25",
-      "end": "2027-03-31",
+      "start": "2027-04-15",
+      "end": "2027-04-21",
       "resource": "Teinert Construction"
     },
     {
@@ -547,7 +547,7 @@
       "name": "Building Pad",
       "phase": "Sales Floor Building",
       "isParent": false,
-      "progress": 25,
+      "progress": 100,
       "start": "2026-08-24",
       "end": "2026-09-03",
       "resource": "Teinert Construction"
@@ -558,7 +558,7 @@
       "name": "Concrete Footers",
       "phase": "Sales Floor Building",
       "isParent": false,
-      "progress": 0,
+      "progress": 50,
       "start": "2026-09-04",
       "end": "2026-09-17",
       "resource": "Teinert Construction"
@@ -569,7 +569,7 @@
       "name": "Underground Plumbing & Elec.",
       "phase": "Sales Floor Building",
       "isParent": false,
-      "progress": 0,
+      "progress": 100,
       "start": "2026-09-18",
       "end": "2026-09-26",
       "resource": "Teinert Construction"
@@ -581,8 +581,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2026-09-27",
-      "end": "2026-10-04",
+      "start": "2026-10-15",
+      "end": "2026-10-22",
       "resource": "Teinert Construction"
     },
     {
@@ -592,8 +592,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2026-10-12",
-      "end": "2026-11-22",
+      "start": "2026-10-26",
+      "end": "2026-12-06",
       "resource": "CT Darnel"
     },
     {
@@ -603,8 +603,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2026-11-09",
-      "end": "2026-11-23",
+      "start": "2026-11-30",
+      "end": "2026-12-14",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -614,8 +614,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2026-11-23",
-      "end": "2026-12-13",
+      "start": "2026-12-14",
+      "end": "2027-01-03",
       "resource": "1st Fire Protection"
     },
     {
@@ -625,8 +625,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2026-11-23",
-      "end": "2026-12-27",
+      "start": "2026-12-14",
+      "end": "2027-01-17",
       "resource": "Teinert Construction"
     },
     {
@@ -636,8 +636,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2026-11-24",
-      "end": "2026-12-17",
+      "start": "2026-12-15",
+      "end": "2027-01-07",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -647,8 +647,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2026-12-24",
-      "end": "2027-01-18",
+      "start": "2027-01-14",
+      "end": "2027-02-08",
       "resource": "CT Darnel"
     },
     {
@@ -658,8 +658,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2026-12-27",
-      "end": "2027-01-10",
+      "start": "2027-01-17",
+      "end": "2027-01-31",
       "resource": "CT Darnel"
     },
     {
@@ -669,8 +669,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2026-12-31",
-      "end": "2027-01-11",
+      "start": "2027-01-21",
+      "end": "2027-02-01",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -680,8 +680,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-01-04",
-      "end": "2027-01-10",
+      "start": "2027-01-25",
+      "end": "2027-01-31",
       "resource": "Teinert Construction"
     },
     {
@@ -691,8 +691,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-01-11",
-      "end": "2027-01-17",
+      "start": "2027-02-01",
+      "end": "2027-02-07",
       "resource": "Teinert Construction"
     },
     {
@@ -702,8 +702,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-01-14",
-      "end": "2027-02-01",
+      "start": "2027-02-04",
+      "end": "2027-02-22",
       "resource": "Teinert Construction"
     },
     {
@@ -713,8 +713,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-01-17",
-      "end": "2027-02-06",
+      "start": "2027-02-07",
+      "end": "2027-02-27",
       "resource": "Teinert Construction"
     },
     {
@@ -724,8 +724,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-01-20",
-      "end": "2027-02-07",
+      "start": "2027-02-10",
+      "end": "2027-02-28",
       "resource": "CT Darnel"
     },
     {
@@ -735,8 +735,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-01-25",
-      "end": "2027-02-07",
+      "start": "2027-02-15",
+      "end": "2027-02-28",
       "resource": "1st Fire / Teinert Construction"
     },
     {
@@ -746,8 +746,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-04",
-      "end": "2027-02-15",
+      "start": "2027-02-25",
+      "end": "2027-03-08",
       "resource": "Teinert Construction"
     },
     {
@@ -757,8 +757,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-04",
-      "end": "2027-02-20",
+      "start": "2027-03-29",
+      "end": "2027-04-23",
       "resource": "Teinert Construction"
     },
     {
@@ -768,8 +768,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-05",
-      "end": "2027-02-15",
+      "start": "2027-02-26",
+      "end": "2027-03-08",
       "resource": "CT Darnel"
     },
     {
@@ -779,8 +779,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-05",
-      "end": "2027-02-15",
+      "start": "2027-02-26",
+      "end": "2027-03-08",
       "resource": "CT Darnel"
     },
     {
@@ -790,8 +790,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-16",
-      "end": "2027-03-06",
+      "start": "2027-03-09",
+      "end": "2027-03-27",
       "resource": "Teinert Construction"
     },
     {
@@ -801,8 +801,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-17",
-      "end": "2027-02-22",
+      "start": "2027-03-10",
+      "end": "2027-03-15",
       "resource": "Teinert Construction"
     },
     {
@@ -812,8 +812,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-18",
-      "end": "2027-02-23",
+      "start": "2027-03-11",
+      "end": "2027-03-16",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -823,8 +823,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-03-07",
-      "end": "2027-03-18",
+      "start": "2027-03-28",
+      "end": "2027-04-08",
       "resource": "Teinert Construction"
     },
     {
@@ -834,8 +834,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-03-10",
-      "end": "2027-03-16",
+      "start": "2027-03-31",
+      "end": "2027-04-06",
       "resource": "Teinert Construction"
     },
     {
@@ -845,8 +845,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-03-10",
-      "end": "2027-03-17",
+      "start": "2027-03-31",
+      "end": "2027-04-07",
       "resource": "Teinert Construction"
     },
     {
@@ -856,8 +856,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-03-21",
-      "end": "2027-03-23",
+      "start": "2027-04-11",
+      "end": "2027-04-13",
       "resource": "Teinert Construction"
     },
     {
@@ -867,8 +867,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-03-21",
-      "end": "2027-03-26",
+      "start": "2027-04-11",
+      "end": "2027-04-16",
       "resource": "Teinert Construction"
     },
     {
@@ -878,8 +878,8 @@
       "phase": "Sales Floor Building",
       "isParent": false,
       "progress": 0,
-      "start": "2027-03-21",
-      "end": "2027-03-26",
+      "start": "2027-04-11",
+      "end": "2027-04-16",
       "resource": "Teinert Construction"
     },
     {
@@ -900,8 +900,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2026-11-05",
-      "end": "2026-11-09",
+      "start": "2026-08-27",
+      "end": "2026-09-09",
       "resource": "Teinert Construction"
     },
     {
@@ -911,8 +911,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2026-11-10",
-      "end": "2026-11-14",
+      "start": "2026-09-30",
+      "end": "2026-10-02",
       "resource": "1st Fire / Teinert Construction"
     },
     {
@@ -922,8 +922,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2026-11-10",
-      "end": "2026-11-15",
+      "start": "2026-09-14",
+      "end": "2026-10-02",
       "resource": "Teinert Construction"
     },
     {
@@ -933,8 +933,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2026-11-16",
-      "end": "2026-11-22",
+      "start": "2026-10-05",
+      "end": "2026-10-16",
       "resource": "Teinert Construction"
     },
     {
@@ -944,8 +944,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2026-11-23",
-      "end": "2026-12-13",
+      "start": "2026-12-07",
+      "end": "2026-12-27",
       "resource": "CT Darnel"
     },
     {
@@ -955,8 +955,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2026-12-18",
-      "end": "2026-12-22",
+      "start": "2027-01-01",
+      "end": "2027-01-05",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -966,8 +966,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2026-12-23",
-      "end": "2027-01-10",
+      "start": "2027-01-06",
+      "end": "2027-01-24",
       "resource": "Teinert Construction"
     },
     {
@@ -977,8 +977,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2027-01-11",
-      "end": "2027-01-12",
+      "start": "2027-01-25",
+      "end": "2027-01-26",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -988,8 +988,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2027-01-15",
-      "end": "2027-01-17",
+      "start": "2027-01-29",
+      "end": "2027-01-31",
       "resource": "Teinert Construction"
     },
     {
@@ -999,8 +999,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2027-01-22",
-      "end": "2027-01-26",
+      "start": "2027-02-05",
+      "end": "2027-02-09",
       "resource": "Teinert Construction"
     },
     {
@@ -1010,8 +1010,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2027-02-19",
-      "end": "2027-03-02",
+      "start": "2027-03-05",
+      "end": "2027-03-16",
       "resource": "1st Fire Protection"
     },
     {
@@ -1021,8 +1021,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2027-03-05",
-      "end": "2027-03-07",
+      "start": "2027-03-19",
+      "end": "2027-03-21",
       "resource": "1st Fire Protection"
     },
     {
@@ -1032,8 +1032,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2027-03-08",
-      "end": "2027-03-12",
+      "start": "2027-03-22",
+      "end": "2027-03-26",
       "resource": "Teinert Construction"
     },
     {
@@ -1043,8 +1043,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2027-03-15",
-      "end": "2027-03-25",
+      "start": "2027-03-29",
+      "end": "2027-04-08",
       "resource": "CT Darnel"
     },
     {
@@ -1054,8 +1054,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2027-03-15",
-      "end": "2027-03-25",
+      "start": "2027-03-29",
+      "end": "2027-04-08",
       "resource": "CT Darnel"
     },
     {
@@ -1065,8 +1065,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2027-03-26",
-      "end": "2027-03-30",
+      "start": "2027-04-09",
+      "end": "2027-04-13",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -1076,8 +1076,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2027-03-26",
-      "end": "2027-03-30",
+      "start": "2027-04-09",
+      "end": "2027-04-13",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -1087,8 +1087,8 @@
       "phase": "Drive Thru",
       "isParent": false,
       "progress": 0,
-      "start": "2027-03-26",
-      "end": "2027-03-30",
+      "start": "2027-04-09",
+      "end": "2027-04-13",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -1109,8 +1109,8 @@
       "phase": "Inspections & CO",
       "isParent": false,
       "progress": 0,
-      "start": "2027-04-05",
-      "end": "2027-04-05",
+      "start": "2027-04-26",
+      "end": "2027-04-26",
       "resource": "Teinert Construction"
     },
     {
@@ -1120,8 +1120,8 @@
       "phase": "Inspections & CO",
       "isParent": false,
       "progress": 0,
-      "start": "2027-04-05",
-      "end": "2027-04-05",
+      "start": "2027-04-26",
+      "end": "2027-04-26",
       "resource": "1st Fire Protection"
     },
     {
@@ -1131,8 +1131,8 @@
       "phase": "Inspections & CO",
       "isParent": false,
       "progress": 0,
-      "start": "2027-04-06",
-      "end": "2027-04-06",
+      "start": "2027-04-27",
+      "end": "2027-04-27",
       "resource": "1st Fire Protection"
     },
     {
@@ -1142,8 +1142,8 @@
       "phase": "Inspections & CO",
       "isParent": false,
       "progress": 0,
-      "start": "2027-04-07",
-      "end": "2027-04-07",
+      "start": "2027-04-28",
+      "end": "2027-04-28",
       "resource": "Teinert Construction/1st Fire"
     },
     {
@@ -1153,8 +1153,8 @@
       "phase": "Inspections & CO",
       "isParent": false,
       "progress": 0,
-      "start": "2027-04-10",
-      "end": "2027-04-10",
+      "start": "2027-05-01",
+      "end": "2027-05-01",
       "resource": "Teinert Construction"
     },
     {
@@ -1164,8 +1164,8 @@
       "phase": "Inspections & CO",
       "isParent": false,
       "progress": 0,
-      "start": "2027-04-12",
-      "end": "2027-04-24",
+      "start": "2027-05-03",
+      "end": "2027-05-15",
       "resource": "Eckermann / Studio 8 / McCoy's"
     },
     {
@@ -1175,8 +1175,8 @@
       "phase": "Inspections & CO",
       "isParent": false,
       "progress": 0,
-      "start": "2027-04-26",
-      "end": "2027-04-26",
+      "start": "2027-05-17",
+      "end": "2027-05-17",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -1186,8 +1186,8 @@
       "phase": "Inspections & CO",
       "isParent": false,
       "progress": 0,
-      "start": "2027-04-27",
-      "end": "2027-05-31",
+      "start": "2027-05-18",
+      "end": "2027-06-21",
       "resource": "McCoy's Const. Team"
     },
     {
@@ -1197,8 +1197,8 @@
       "phase": "Inspections & CO",
       "isParent": false,
       "progress": 0,
-      "start": "2027-06-07",
-      "end": "2027-06-21",
+      "start": "2027-06-28",
+      "end": "2027-07-12",
       "resource": "McCoy's / Teinert"
     }
   ]
