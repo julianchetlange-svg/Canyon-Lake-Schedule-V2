@@ -899,7 +899,7 @@
       "name": "Building Pad",
       "phase": "Drive Thru",
       "isParent": false,
-      "progress": 75,
+      "progress": 100,
       "start": "2026-08-27",
       "end": "2026-10-09",
       "resource": "Teinert Construction"
